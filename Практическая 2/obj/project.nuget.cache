@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "lISWKOuq9N+CwyhqPzp72xfCprr8hk2/jrQ717MIfdDkL/FM9UMHJzfAWdLexLYjSkvW6v+s7O3odHC68mRWDg==",
+  "success": true,
+  "projectFilePath": "D:\\Desktop\\Барабанщиков Сергей\\практическая 2\\ConsoleApp72.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Сергей\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\Сергей\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\Сергей\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\Сергей\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
